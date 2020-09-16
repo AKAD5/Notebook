@@ -11,6 +11,7 @@
 
  producer.send('test_0914', data_kfk) #定义topic名称
  producer.close()
- ~~~python
+ ~~~
+ 
   + 消费者
     
